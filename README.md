@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on just about anything as I am looking to strenghten my skills and experience as a web developer and programmer. I am also interested in learning some backend developement as I love growing my skills and expanding my knowledge! However I really enjoy working on the client side and love working on applications revolving around art, animation, entertainment, video games etc!
 - 📫 How to reach me. You can reach me through my email netoguidos@gmail.com or though gitHub or LinkedIn(Ernesto Guidos)! Happy to speak to you guys!
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I never ever thought I would be a programmer. I always loved technology and art however I never really had interest in the space up until two ish years ago! And my first project is an NFT Marketplace!
+- ⚡ Fun fact: I never ever thought I would be a programmer. I always loved technology and art however I never really had interest in the space up until two ish years ago! And my first project is an NFT Marketplace and although it is still a work in progress, I am quite proud of how far I have come with it!
 
 <!---
 spideyInterface/spideyInterface is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
